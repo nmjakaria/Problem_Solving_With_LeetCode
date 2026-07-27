@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0100-same-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
