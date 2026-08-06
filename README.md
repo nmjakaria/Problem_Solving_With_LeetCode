@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0015-3sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
