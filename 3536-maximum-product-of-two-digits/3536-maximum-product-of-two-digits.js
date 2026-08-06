@@ -5,7 +5,7 @@
 var maxProduct = function (n) {
     let max1 = -1;
     let max2 = -1;
-    while (n) {
+    while (n>0) {
         let last = n % 10;
         if (last > max1) {
             max2 = max1
