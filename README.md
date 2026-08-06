@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0015-3sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
 | ------- |
