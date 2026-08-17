@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0029-divide-two-integers) |
 | [0171-excel-sheet-column-number](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/nmjakaria/Problem_Solving_With_LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
